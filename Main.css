@@ -1,0 +1,18 @@
+
+
+.blocks {
+    display: flex;
+    justify-content: space-around; /* Выравнивание блоков по горизонтали */
+}
+
+.blocks div {
+    flex: 1; /* Равномерное распределение блоков по ширине */
+    text-align: center; /* Выравнивание текста по центру в блоках */
+}
+
+.logo {
+    font-size: 27px; /* Размер шрифта логотипа */
+    font-weight: bold; /* Жирный шрифт для логотипа */
+}
+
+
